@@ -2,14 +2,14 @@
 
 Cheating Git:
 
-1. [`Configurações Iniciais`](/maicol-dg/Cheating-Git#Configurações_Iniciais)
+1. [`init`](/maicol-dg/Cheating-Git#init)
 
 
 
 
 
-#### `Configurações_Iniciais`
-
+#### Configurações Iniciais
+#### `init`
 
 ```
 git config --global user.name "Nome"
