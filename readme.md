@@ -2,13 +2,13 @@
 
 Cheating Git:
 
-1. [`Configurações Iniciais`](/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress/wiki/Field-Types#title)
+1. [`Configurações Iniciais`](/maicol-dg/Cheating-Git#Configurações_Iniciais)
 
 
 
 
 
-#### `Configurações Iniciais`
+#### `Configurações_Iniciais`
 
 
 ```
